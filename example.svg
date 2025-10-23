@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="72.574738mm"
+   height="37.447365mm"
+   viewBox="0 0 72.574738 37.447365"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient1">
+      <stop
+         style="stop-color:#3976b0;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#9768d1;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="46.82719"
+       y1="128.5697"
+       x2="162.14677"
+       y2="-8.8628216"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.40276778,0,0,0.40276778,21.289448,18.741898)" />
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.08147026,0,0,0.05384934,81.543671,53.691412)"
+       x1="46.82719"
+       y1="128.5697"
+       x2="162.14677"
+       y2="-8.8628216" />
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.08147026,0,0,0.05384934,65.126733,53.691412)"
+       x1="46.82719"
+       y1="128.5697"
+       x2="162.14677"
+       y2="-8.8628216" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-27.086059,-24.125247)">
+    <rect
+       style="fill:#1c1d21;fill-opacity:1;stroke:url(#linearGradient2);stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect1"
+       width="72.045578"
+       height="36.918194"
+       x="27.350643"
+       y="24.38983"
+       rx="2.1313128"
+       ry="2.1313128" />
+    <rect
+       style="fill:#3c3d40;fill-opacity:1;stroke:url(#linearGradient3);stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect2"
+       width="14.573091"
+       height="4.9358964"
+       x="82.769699"
+       y="54.446533"
+       rx="0.42655471"
+       ry="0.52916664" />
+    <rect
+       style="fill:#3c3d40;fill-opacity:1;stroke:url(#linearGradient4);stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect4"
+       width="14.573091"
+       height="4.9358964"
+       x="66.35276"
+       y="54.446533"
+       rx="0.42655471"
+       ry="0.52916664" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.01472px;font-family:'CaskaydiaCove Nerd Font Mono';-inkscape-font-specification:'CaskaydiaCove Nerd Font Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#3c3d40;fill-opacity:1;stroke:#ff2e2e;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       x="68.485771"
+       y="57.949306"
+       id="text5"><tspan
+         id="tspan5"
+         style="fill:#cde5fa;fill-opacity:1;stroke-width:0"
+         x="68.485771"
+         y="57.949306">Cancel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.01472px;font-family:'CaskaydiaCove Nerd Font Mono';-inkscape-font-specification:'CaskaydiaCove Nerd Font Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff5252;fill-opacity:1;stroke:#ff2e2e;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       x="84.817192"
+       y="57.984886"
+       id="text6"><tspan
+         id="tspan6"
+         style="fill:#ff5252;fill-opacity:1;stroke-width:0"
+         x="84.817192"
+         y="57.984886">Delete</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.70802px;font-family:'CaskaydiaCove Nerd Font Mono';-inkscape-font-specification:'CaskaydiaCove Nerd Font Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#3c3d40;fill-opacity:1;stroke:#ff2e2e;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       x="29.837286"
+       y="29.820934"
+       id="text7"><tspan
+         id="tspan7"
+         style="font-weight:bold;fill:#cde5fa;fill-opacity:1;stroke-width:0"
+         x="29.837286"
+         y="29.820934">Are You Sure?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.70802px;font-family:'CaskaydiaCove Nerd Font Mono';-inkscape-font-specification:'CaskaydiaCove Nerd Font Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.6279;fill:#b5b6b7;fill-opacity:1;stroke:#ff2e2e;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       x="29.837286"
+       y="34.054272"
+       id="text8"
+       transform="matrix(0.3777531,0,0,0.3777531,18.533038,19.38457)"><tspan
+         x="29.837286"
+         y="34.054272"
+         id="tspan1">Deletion is irreversible, please </tspan><tspan
+         x="29.837286"
+         y="39.939299"
+         id="tspan2">make sure you wish to do this.</tspan></text>
+    <path
+       style="fill:#2b2c30;fill-opacity:1;stroke:#5f5f63;stroke-width:0.244918;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path8"
+       d="m 87.840348,36.61211 c -0.964213,1.666781 -16.543914,1.65349 -17.505282,-0.01493 -0.961368,-1.668424 6.839993,-15.154195 8.765574,-15.152552 1.925581,0.0016 9.703921,13.500704 8.739708,15.167485 z"
+       transform="matrix(1.0802955,0,0,1.0802955,-4.0164388,6.657571)" />
+    <path
+       style="fill:#ffe355;fill-opacity:1;stroke:#ff2e2e;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path9"
+       d="m 87.840348,36.61211 c -0.964213,1.666781 -16.543914,1.65349 -17.505282,-0.01493 -0.961368,-1.668424 6.839993,-15.154195 8.765574,-15.152552 1.925581,0.0016 9.703921,13.500704 8.739708,15.167485 z"
+       transform="matrix(0.86633034,0,0,0.86633034,12.965603,13.51182)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1119px;font-family:'CaskaydiaCove Nerd Font Mono';-inkscape-font-specification:'CaskaydiaCove Nerd Font Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#2b2c30;fill-opacity:1;stroke:#ff2e2e;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       x="77.922089"
+       y="44.375267"
+       id="text9"><tspan
+         id="tspan9"
+         style="font-weight:bold;stroke-width:0"
+         x="77.922089"
+         y="44.375267">!</tspan></text>
+  </g>
+</svg>
